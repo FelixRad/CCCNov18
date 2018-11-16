@@ -10,6 +10,7 @@ namespace CCCNov18
             Console.WriteLine("Hello World!");
             string path = @"C:\test.txt";
             StreamReader reader = new StreamReader(path);
+            
         }
     }
 }
